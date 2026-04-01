@@ -1,9 +1,10 @@
 # Coders of Delhi (CodeBook) - Data Science Internship
 
 ## Introduction
-Congratulations! You have just been hired as a **Data Scientist Intern** at **CodeBook – The Social Media for Coders**. This Delhi-based company is offering you a **₹10 LPA job** if you successfully complete this **1-month internship**. But before you get there, you must prove your skills using **only Python**—no pandas, NumPy, or fancy libraries!
+This project is part of a **Data Scientist Internship** at **CodeBook – The Social Media for Coders**. The challenge is to demonstrate data science skills using **only Python**—no pandas, NumPy, or other external libraries.
 
-Your manager **Puneet Kumar** has assigned you your **first task**: analyzing a data dump of CodeBook users using **pure Python**. Your job is to **load and explore the data** to understand its structure.
+The **first task** involves analyzing a data dump of CodeBook users using **pure Python**. The objective is to **load and explore the data** to understand its structure.
+
 
 ## Project Overview
 **CodeBook** is a social media platform designed specifically for coders. This repository contains the data and analysis scripts developed during this internship.
